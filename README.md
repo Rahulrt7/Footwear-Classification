@@ -2,10 +2,10 @@
 Footwear Type and Color Identification
 
 ## Dependencies
-python - 2.7
-keras - 2.0
-tensorflow - 1.0
-sklearn - 0.18
+- python -> 2.7
+- keras -> 2.0
+- tensorflow -> 1.0
+- sklearn -> 0.18
 
 ## Report
 Report for the project is saved as report.docx
