@@ -1,4 +1,4 @@
-# Image-Classification
+# Footwear-Classification
 Footwear Type and Color Identification
 
 ## Dependencies
