@@ -22,7 +22,7 @@ Contains jupyter notebooks for:
 - Extracting features 
 - Applying PCA transformation
 - Training type_classifier using Support Vector Machines
-- Computing validation accuracy(31%)
+
 Note:
 The files resulting as output on running these notebooks are not included as the prediction code can be executed without them. Also their size are very large.
 
